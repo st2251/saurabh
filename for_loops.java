@@ -9,6 +9,8 @@ public class for_loops
         {
             System.out.println("Saurabh");
         }
+        System.out.println("done with for loops ");
+        System.out.println("wait what about for loops");
     }
     
 }
